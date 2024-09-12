@@ -247,6 +247,7 @@ body::-webkit-scrollbar-thumb {
   box-shadow: 0px 4px 28px rgba(0, 0, 0, 0.25);
   border-radius: 12px;
   width: 352px;
+  border: 2px solid #FF2400;
 }
 .section .sector h3 {
   font-family: 'Poppins', sans-serif;
